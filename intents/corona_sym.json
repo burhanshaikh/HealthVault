@@ -1,0 +1,31 @@
+{
+  "id": "a2c409e6-1a71-418d-82c6-b85d3ec18471",
+  "name": "corona_sym",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "The symptoms of coronavirus are:\n\na cough\na high temperature\nshortness of breath\nBut these symptoms do not necessarily mean you have the illness.\n\nThe symptoms are similar to other illnesses that are much more common, such as cold and flu. Get yourself checked by your doctor."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

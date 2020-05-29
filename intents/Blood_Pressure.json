@@ -1,0 +1,69 @@
+{
+  "id": "8cf2c734-3b84-4b23-8b53-d50e6c3e978b",
+  "name": "Blood_Pressure",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "items": [
+            {
+              "textToSpeech": "Please Select one",
+              "ssml": "",
+              "displayText": ""
+            },
+            {
+              "textToSpeech": "What do you want?",
+              "ssml": "",
+              "displayText": ""
+            }
+          ]
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "suggestions": [
+            {
+              "title": "Enter Blood Pressure"
+            },
+            {
+              "title": "Last Month\u0027s Average BP"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "actions_intent_OPTION"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

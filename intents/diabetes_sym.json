@@ -1,0 +1,31 @@
+{
+  "id": "882d7993-e5c7-4b77-8721-c70b3c616636",
+  "name": "diabetes_sym",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Abnormal thirst and dry mouth\nSudden weight loss\nFrequent urination\nLack of energy, tiredness\nConstant hunger\nBlurred vision\nBedwetting. Always consult a doctor to get a concrete diagnosis."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

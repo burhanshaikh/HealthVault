@@ -1,0 +1,74 @@
+[
+  {
+    "id": "ec706c03-7a1d-4268-93d4-b91368d8094d",
+    "data": [
+      {
+        "text": "give me info about flu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b1e9ca7a-7a28-469a-9cf0-81c3779036d2",
+    "data": [
+      {
+        "text": "give me information about flu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ab0a85ae-4b3f-4e79-afe2-569896fc2e5e",
+    "data": [
+      {
+        "text": "whats flu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a6719f72-352c-49c8-a8df-dd553d7d590c",
+    "data": [
+      {
+        "text": "I want to know about flu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "92f7df3a-efd0-47a3-a0b1-647fa74c3f7b",
+    "data": [
+      {
+        "text": "tell me about flui",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5feb7c7c-5b0b-43d4-bf25-f9392a394b1e",
+    "data": [
+      {
+        "text": "what is flu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

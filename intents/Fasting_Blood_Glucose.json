@@ -1,0 +1,31 @@
+{
+  "id": "1556fb76-c8bf-45bf-8197-56cd4b54d9c8",
+  "name": "Fasting_Blood_Glucose",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Select an option from the following : 1) Store my Fasting Blood Sugar 2) Last month\u0027s average Fasting Blood Sugar"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
