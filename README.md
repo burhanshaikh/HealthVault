@@ -1,1 +1,1 @@
-This repository contains the code for HealthVault
+This repository contains the code for HealthVault.
